@@ -1,5 +1,5 @@
 ### Hello world! I’m Krista :wave:
-### ハロー・ワールド！クリスタです
+## ハロー・ワールド！クリスタです
 
 <!--
 **kurikurichan/kurikurichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
