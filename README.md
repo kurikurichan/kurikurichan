@@ -4,8 +4,6 @@
 Hey! I'm Krista Strucke. I'm a passionate Full-Stack developer new to the scene and looking to make great things. I love to code in my free time. I live for the struggle of throwing myself into uncharted territory and  the satisfaction of finding my way out.
 In my spare time, you will find me at the gym, pumping the irons or playing with DND group!
 
-Growing up I wanted to fight evil like Link in the Legend of Zelda,  and now I fight pirates online!
-
 
 	•	💪 I’m currently working on GRADUATING APP ACADEMY!
 	•	🌱 I’m currently learning about React and Flask
