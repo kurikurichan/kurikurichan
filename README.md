@@ -8,7 +8,7 @@ In my spare time, you will find me playing games with friends, making music on m
 - 🔭 I’m currently working on finishing up my latest project, Note Pile, and building a portfolio site
 - 🌱 I’m currently learning React and how to use React-Quill
 - 👯 I would love to collaborate on a new project- once my course is over, of course!
-- 📫 Send an email to developerkrista@gmail.com [developerkrista@gmail.com](mailto:developerkrista@gmail.com)
+- 📫 Send an email to [developerkrista@gmail.com](mailto:developerkrista@gmail.com)
 - ⚡ Fun fact: I lived in Tokyo and speak Japanese
 
 ![kero](https://user-images.githubusercontent.com/8907997/184076663-9fae863c-4415-4076-b119-c10ddc5e8b48.gif)
