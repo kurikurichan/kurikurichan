@@ -11,4 +11,8 @@ In my spare time, you will find me playing games with friends, making music on m
 - 📫 Send an email to [developerkrista@gmail.com](mailto:developerkrista@gmail.com)
 - ⚡ Fun fact: I lived in Tokyo and speak Japanese
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurikurichan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kurikurichan.kurikurichan)
+
 ![kero](https://user-images.githubusercontent.com/8907997/184076663-9fae863c-4415-4076-b119-c10ddc5e8b48.gif)
