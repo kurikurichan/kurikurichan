@@ -1,7 +1,7 @@
 ### Hello world! I’m Krista :wave:
 ### ハロー・ワールド！クリスタです
 
-- 🔭 I’m currently studying on data structures & algorithms, and am seeking employment opportunities
+- 🔭 I’m currently studying data structures & algorithms, and am seeking employment opportunities
 - 👯 I would love to collaborate on a new project!
 - 📫 Send an email to [developerkrista@gmail.com](mailto:developerkrista@gmail.com)
 - ⚡ Fun fact: I lived in Tokyo and speak Japanese
