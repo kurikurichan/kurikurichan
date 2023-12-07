@@ -1,6 +1,8 @@
 ### Hello world! I’m Krista :wave:
 ### ハロー・ワールド！クリスタです
 
+<img height="200em" src="https://user-images.githubusercontent.com/8907997/184076663-9fae863c-4415-4076-b119-c10ddc5e8b48.gif" />
+
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
